@@ -1,1 +1,6 @@
-@charset 
+@charset "UTF-8";
+
+body{
+    width: 600px;
+    background-color: black;
+}
